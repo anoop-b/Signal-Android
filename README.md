@@ -13,3 +13,4 @@ Currently available on the Play store.
 - swipe to reply is added
 - removed unused resources
 - upstream to 4.42.2
+- compressed image resources by 6%
